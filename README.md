@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lluís Muñoz
+<div align="center">
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Lluís Muñoz </h1>
+</div>
 ===================================================================================================================================
 
-Higher degree FP DUAL student
------------------------------
-
-* 🌍  I'm based in España
+## Higher degree FP DUAL student
+* 🌍  I'm based in Spain, Mallorca.
 * ✉️  You can contact me at [lluismunoz7@gmail.com](mailto:lluismunoz7@gmail.com)
 
 ### Skills
@@ -21,8 +21,6 @@ Higher degree FP DUAL student
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lmunoz-dawi"><img src="https://github-readme-stats.vercel.app/api?username=lmunoz-dawi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="lmunoz-dawi's GitHub stats" /></a>
-
-<a href="https://github.com/lmunoz-dawi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmunoz-dawi&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/lmunoz-dawi"><img src="https://github-readme-stats.vercel.app/api?username=lmunoz-dawi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="lmunoz-dawi's GitHub stats" /></a> <a href="https://github.com/lmunoz-dawi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmunoz-dawi&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
