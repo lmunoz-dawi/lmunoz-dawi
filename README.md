@@ -1,7 +1,11 @@
 <div align="center">
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Lluís Muñoz </h1>
 </div>
-===================================================================================================================================
+<br>
+<div align="center">
+    <img src="https://t4.ftcdn.net/jpg/04/04/73/39/240_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg" alt="hola" width="1000px" height="300px">
+</div>
+<br>
 
 ## Higher degree FP DUAL student
 * 🌍  I'm based in Spain, Mallorca.
