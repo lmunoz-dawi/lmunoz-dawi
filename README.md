@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/04/04/73/39/240_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg" alt="hola" width="1000px" height="300px">
+    <img src="https://github.com/lmunoz-dawi/lmunoz-dawi/blob/main/github-header-image.png" alt="hola">
 </div>
 <br>
 
