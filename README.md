@@ -21,9 +21,6 @@
 
 ### Badges
 
-## CodeWars
-<img src="https://www.codewars.com/users/lmunoz-dawi/badges/large" alt="codewars">
-
 ## <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/lmunoz-dawi"><img src="https://github-readme-stats.vercel.app/api?username=lmunoz-dawi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="lmunoz-dawi's GitHub stats" /></a> <a href="https://github.com/lmunoz-dawi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmunoz-dawi&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
